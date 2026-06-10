@@ -29,6 +29,30 @@
 🔹 Optimized the system using real-world datasets for secure processing  
 
 🔗 **Project Repo:** [View Project](https://github.com/gopagoniajay/YOUR-REPO-LINK)
+
+# 🌐 Coding Profiles:
+
+<p align="left">
+<a href="https://github.com/gopagoniajay" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="50" height="50"/>
+</a>
+
+<a href="https://leetcode.com/YOUR-LEETCODE-USERNAME/" target="_blank">
+<img src="https://cdn.simpleicons.org/leetcode" width="50" height="50"/>
+</a>
+
+<a href="https://www.hackerrank.com/YOUR-HACKERRANK-USERNAME" target="_blank">
+<img src="https://cdn.simpleicons.org/hackerrank" width="50" height="50"/>
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/YOUR-GFG-USERNAME/" target="_blank">
+<img src="https://cdn.simpleicons.org/geeksforgeeks" width="50" height="50"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ajaygopagoni/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50"/>
+</a>
+</p>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=gopagoniajay&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=gopagoniajay&theme=dark&hide_border=false)<br/>
