@@ -37,15 +37,15 @@
 <img src="https://skillicons.dev/icons?i=github" width="50" height="50"/>
 </a>
 
-<a href="https://leetcode.com/YOUR-LEETCODE-USERNAME/" target="_blank">
+<a href="https://leetcode.com/gopagoniajay/" target="_blank">
 <img src="https://cdn.simpleicons.org/leetcode" width="50" height="50"/>
 </a>
 
-<a href="https://www.hackerrank.com/YOUR-HACKERRANK-USERNAME" target="_blank">
+<a href="https://www.hackerrank.com/ajaygopagoni6" target="_blank">
 <img src="https://cdn.simpleicons.org/hackerrank" width="50" height="50"/>
 </a>
 
-<a href="https://auth.geeksforgeeks.org/user/YOUR-GFG-USERNAME/" target="_blank">
+<a href="https://auth.geeksforgeeks.org/user/ajaygopgtn1/" target="_blank">
 <img src="https://cdn.simpleicons.org/geeksforgeeks" width="50" height="50"/>
 </a>
 
@@ -53,10 +53,6 @@
 <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50"/>
 </a>
 </p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=gopagoniajay&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=gopagoniajay&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=gopagoniajay&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
